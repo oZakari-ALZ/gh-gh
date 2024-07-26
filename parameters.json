@@ -1,0 +1,18 @@
+{
+  "MANAGEMENT_GROUP_ID": "alz",
+  "NETWORK_TYPE": "hubNetworking",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "627755e9-a244-4d05-b88e-e5b35826dc60",
+  "LOCATION": "centralus",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "a9467115-24cc-4747-9bbb-1fa45921a1b2",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-alz-connectivity",
+  "IDENTITY_SUBSCRIPTION_ID": "86dc1e50-f967-40b2-aa0a-3babc7be8ab6",
+  "RELEASE_VERSION": "v0.19.0",
+  "PREFIX": "alz",
+  "MANAGEMENT_SUBSCRIPTION_ID": "69ac80fe-dbff-4971-9cba-9cb384486ba5",
+  "LOGGING_RESOURCE_GROUP": "rg-alz-logging"
+}
